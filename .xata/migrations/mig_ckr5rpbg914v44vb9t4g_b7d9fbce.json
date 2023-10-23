@@ -1,0 +1,16 @@
+{
+  "id": "mig_ckr5rpbg914v44vb9t4g",
+  "parentID": "mig_ckr5863ahnluei2fsql0",
+  "checksum": "1:b7d9fbce5f62c54e6ec5407cf2fc1b926499bd4adaac663bd7e55d2bd300b95e",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "price",
+          "type": "float"
+        },
+        "table": "products"
+      }
+    }
+  ]
+}

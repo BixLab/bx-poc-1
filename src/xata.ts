@@ -12,6 +12,7 @@ const tables = [
     columns: [
       { name: "name", type: "string" },
       { name: "description", type: "text" },
+      { name: "price", type: "float" },
     ],
   },
 ] as const;
