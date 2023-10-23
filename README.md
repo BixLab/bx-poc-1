@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/d25ea9e5-c560-45c1-8a81-de4e5613e078/deploy-status)](https://app.netlify.com/sites/fancy-crumble-e196f9/deploys)
+
 # Nuxt 3 Minimal Starter
 
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
