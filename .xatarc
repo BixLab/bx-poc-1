@@ -1,0 +1,6 @@
+{
+  "databaseURL": "https://Ond-ej-Pol-ch-s-workspace-mq6rb6.eu-central-1.xata.sh/db/db-1",
+  "codegen": {
+    "output": "src/xata.ts"
+  }
+}
