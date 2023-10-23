@@ -11,8 +11,12 @@
   },
   "devDependencies": {
     "@nuxt/devtools": "latest",
+    "@xata.io/netlify": "^0.1.19",
     "nuxt": "^3.8.0",
     "vue": "^3.3.6",
     "vue-router": "^4.2.5"
+  },
+  "dependencies": {
+    "@xata.io/client": "^0.26.9"
   }
 }

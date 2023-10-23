@@ -1,0 +1,16 @@
+{
+  "id": "mig_ckr57rbahnluei2fsqk0",
+  "parentID": "mig_ckr55ebg914v44vb9pd0",
+  "checksum": "1:4f212216fe3f492c759f3c8fd1b487d8d5c48118c1ddfe7403580ad08ec1114f",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "name",
+          "type": "text"
+        },
+        "table": "products"
+      }
+    }
+  ]
+}
